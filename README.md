@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm Sanjay Singh Rawat
-**Passionate Full Stack Developer**
-
-Email Me 👉 ✉️ **ssr911999@gmail.com** Reach out for collaborations, project inquiries, or anything tech-related!. 😊
+<h1 align="center">💫 Hi 👋, I'm **Sanjay Singh Rawat**</h1> 
+<p align="center">
+  <strong>🚀 Passionate Full Stack Developer 💻</strong><br>
+</p>
 
 - 🔭 **I’m currently working on:** Storage App
 - 🌱 **I’m currently learning:** Advanced **Deployment techniques** to scale apps with DevOps practices
