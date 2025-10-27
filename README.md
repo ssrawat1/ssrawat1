@@ -1,7 +1,5 @@
-<h1 align="center">💫 Hi 👋, I'm **Sanjay Singh Rawat**</h1> 
-<p align="center">
-  <strong>🚀 Passionate Full Stack Developer 💻</strong><br>
-</p>
+<h1 align="center">💫 Hi 👋, I'm Sanjay Singh Rawat</h1> 
+  <h3 align='center'>🚀 Passionate Full Stack Developer 💻</h3><br>
 
 - 🔭 **I’m currently working on:** Storage App
 - 🌱 **I’m currently learning:** Advanced **Deployment techniques** to scale apps with DevOps practices
