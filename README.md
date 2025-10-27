@@ -5,8 +5,8 @@ Email Me 👉 ✉️ **ssr911999@gmail.com** Reach out for collaborations, proje
 
 - 🔭 **I’m currently working on:** Storage App
 - 🌱 **I’m currently learning:** Advanced **Deployment techniques** to scale apps with DevOps practices
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Innovative full-stack. Open to exciting opportunities in tech!
+- 👯 **I’m looking to collaborate on:** Innovative full-stack. Open to exciting opportunities in tech!
+- 🤔 **I’m looking for help with:** Deployment strategies, scaling web apps, and optimizing CI/CD pipelines.
 - 💬 **Feel free to ask me about:** Full Stack Development (React, Node, MongoDB, Express etc.)
 - 📫 **How to reach me:** ssr911999@gmail.com
 - 😄 **Pronouns:** Sanjay
