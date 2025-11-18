@@ -1,5 +1,5 @@
 <h1 align="center">💫 Hi 👋, I'm Sanjay Singh Rawat</h1> 
-  <h3 align='center'>🚀 Full-Stack Developer | MERN • Next.js • TypeScript • AWS Cloud 💻</h3>
+  <h3 align='center'>🚀 Full-Stack Developer || MERN || Next.js || TypeScript || AWS Cloud 💻</h3>
   
 - 🔭 **I’m currently working on:** Storage App
 - 🌱 **I’m currently learning:** Advanced **Deployment techniques** to scale apps with DevOps practices
