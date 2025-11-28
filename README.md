@@ -19,12 +19,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-singh-rawat-a39b11302) 
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssr911999@gmail.com)
 
-# <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="22" /> GitHub Stats
+## 🐙 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ssrawat1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=ssrawat1&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssrawat1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# <img src="https://leetcode.com/static/images/LeetCode_logo.png" width="20" /> LeetCode Stats
+## 🧩 LeetCode Stats:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ssrawata1?theme=dark)](https://leetcode.com/ssrawata1/)
 
 ## ✍️ Random Dev Quote
