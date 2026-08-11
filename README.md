@@ -2,7 +2,7 @@
   <h3 align='center'>🚀 Full-Stack Developer | MERN | Next.js | TypeScript | AWS Cloud 💻</h3>
   
 - 🔭 **I’m currently working on:** Storage App
-- 🌱 **I’m currently learning:** Advanced **Deployment techniques** to scale apps with DevOps practices
+- 🌱 **I’m currently learning:** Advanced **Deployment techniques** to scale apps with DevOps practices & Typescript
 - 👯 **I’m looking to collaborate on:** Innovative full-stack. Open to exciting opportunities in tech!
 - 🤔 **I’m looking for help with:** Deployment strategies, scaling web apps, and optimizing CI/CD pipelines.
 - 💬 **Feel free to ask me about:** Full Stack Development (React, Node, MongoDB, Express etc.)
