@@ -24,6 +24,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ssrawat1&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssrawat1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🧩 TypeScript Challenges
+[![Type Challenges](https://img.shields.io/badge/Type--Challenges-Medium%20Solved-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/ssrawat1/type-challenges/tree/main/medium)
+
 ## 🧩 LeetCode Stats:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ssrawata1?theme=dark)](https://leetcode.com/ssrawata1/)
 
