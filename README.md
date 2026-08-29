@@ -10,22 +10,31 @@
 - 😄 **Pronouns:** Sanjay
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
+<br>
+
 # 💻 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+
+<br>
 
 # 🌐 Socials & Portfolio:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://sanjaydevportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-singh-rawat-a39b11302) 
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssr911999@gmail.com)
 
-## 🐙 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ssrawat1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=ssrawat1&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssrawat1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br>
 
-## 🧩 TypeScript Challenges
-[![Type Challenges](https://img.shields.io/badge/Type--Challenges-Medium%20Solved-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/ssrawat1/type-challenges/tree/main/medium)
+## 🧩 TypeScript Type-Level Programming
+
+I went deep into TypeScript's type system by solving **all 101 Medium** and **100% of Easy** challenges from the well-known [type-challenges](https://github.com/type-challenges/type-challenges) repository. I wrote algorithms using nothing but recursive, conditional, and template literal types, typeof and keyof operators, mapped types, indexed access types.
+
+[![Easy](https://img.shields.io/badge/Easy-100%25-brightgreen?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/ssrawat1/type-challenges/tree/main/easy)
+[![Medium](https://img.shields.io/badge/Medium-101%20Solved-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/ssrawat1/type-challenges/tree/main/medium)
+
+📂 **[View all solutions →](https://github.com/ssrawat1/type-challenges)**
+
+<br>
 
 ## 🧩 LeetCode Stats:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ssrawata1?theme=dark)](https://leetcode.com/ssrawata1/)
