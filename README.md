@@ -43,44 +43,81 @@
 # 🚀 Featured Projects
 
 ## ☁️ Cloud Storage Application
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
 A cloud storage platform for secure file uploads and downloads, with premium storage plans.
 
-🚧 **Status:** The live demo is offline because my AWS free tier ended. I am building an improved version (v2), and the code is available below.
+🚧 **Status:** The live demo is offline because my AWS free tier ended. I am building an improved version (v2), and the full code is available below.
 
+**Highlights**
 - ⚡ Cut file delivery latency from **300ms to 100ms** (66% faster) using the CloudFront CDN
 - 🧠 Benchmarked Redis against MongoDB: Redis gave **7x to 10x faster reads**, which shaped the caching strategy
-- 🔐 Role-based access control, Redis-backed sessions and Google/GitHub OAuth
+- 🚀 Redis-backed session handling improved API responsiveness by **50%**
+- 🔐 Role-based access control with Google and GitHub OAuth
 - 💳 Razorpay billing for premium storage tiers
 
-[🔗 Frontend Code](https://github.com/ssrawat1/StorageApp-Frontend) · [🔗 Backend Code](https://github.com/ssrawat1/StorageApp-Backend)
+**Skills used in this project**
+
+| Skill | How I used it |
+|-------|---------------|
+| **React** | Frontend for file uploads, retrievals and storage metrics |
+| **Node.js + Express** | Modular REST APIs, including real-time storage metrics for active users |
+| **MongoDB** | Database behind the APIs, benchmarked against Redis for read speed |
+| **Redis** | Session handling and caching for high-frequency API calls |
+| **AWS S3** | Secure file uploads and retrievals |
+| **AWS CloudFront** | CDN delivery, latency from 300ms to 100ms |
+| **OAuth + RBAC** | Google/GitHub login and role-based access control |
+| **Razorpay** | Billing flows for premium storage tiers |
+
+[🌐 Live Demo (currently offline)](https://safemystuff.store/) · [🔗 Frontend Code](https://github.com/ssrawat1/StorageApp-Frontend) · [🔗 Backend Code](https://github.com/ssrawat1/StorageApp-Backend)
 
 ---
 
 ## ⚙️ Custom CI/CD Server
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=61DAFB) ![GitHub Webhooks](https://img.shields.io/badge/GitHub_Webhooks-121011?style=flat-square&logo=github&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 
 A self-hosted deployment server that removes manual SSH deployments.
 
+**Highlights**
 - 🚀 Reduced deploy time from about **15 minutes to under 60 seconds** (93% faster)
 - 🔒 Verifies every webhook with **HMAC-SHA256** to block spoofed pushes
 - 🧭 Picks the right deploy script automatically for each repository, so one server handles many projects
-- 📧 Sends HTML email reports of success or failure to the developer who pushed the commit
+- 📧 Sends color-coded HTML email reports of success or failure to the developer who pushed the commit
+
+**Skills used in this project**
+
+| Skill | How I used it |
+|-------|---------------|
+| **Node.js + Express** | Webhook server that receives and processes GitHub push events |
+| **GitHub Webhooks** | Automatic deployment trigger on every push |
+| **HMAC-SHA256** | Signature check on every incoming payload to block unauthorized requests |
+| **Bash** | Deploy scripts (`deploy-frontend.sh`, `deploy-backend.sh`) chosen by repository |
+| **SSH + PM2** | Server-side deployment and process management |
+| **Email alerts** | HTML reports with filtered logs, branch, commit message and timestamp |
 
 [🔗 Code](https://github.com/ssrawat1/Custom-CI-CD-Pipelines-Using-Node.js-GitHub-Webhook)
 
 ---
 
 ## 🛒 Shopee E-commerce Application
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 A full-stack shopping app with a focus on user experience and security.
 
+**Highlights**
 - 🛍️ Guest cart that merges automatically with the user's cart after login
 - 🔎 Product search with live suggestions and keyword highlighting
-- 🛡️ Secure APIs using rate limiting, Zod validation, DOMPurify, CSP and Helmet
+- 🛡️ Secure APIs protected against common web vulnerabilities
 - 📄 Client-side pagination and reusable UI components
+
+**Skills used in this project**
+
+| Skill | How I used it |
+|-------|---------------|
+| **Next.js** | Product listings, search, pagination and cart experience |
+| **Tailwind CSS** | Responsive, modular UI components |
+| **Node.js + Express** | Secure REST APIs |
+| **MongoDB** | Data storage for the shopping app |
+| **Rate limiting + throttling** | Protection against abuse and request floods |
+| **Zod + DOMPurify** | Input validation and sanitization |
+| **CSP + Helmet** | Secure HTTP headers and content policy |
 
 [🌐 Live Demo](https://shopee.safemystuff.store/) · [🔗 Frontend Code](https://github.com/ssrawat1/shopping_app_frontend) · [🔗 Backend Code](https://github.com/ssrawat1/shopping_app_backend)
 
