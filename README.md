@@ -1,27 +1,88 @@
 <h1 align="center">💫 Hi 👋, I'm Sanjay Singh Rawat</h1> 
-  <h3 align='center'>🚀 Full-Stack Developer | MERN | Next.js | TypeScript | AWS Cloud 💻</h3>
-  
-- 🔭 **I’m currently working on:** Storage App
-- 🌱 **I’m currently learning:** Advanced **Deployment techniques** to scale apps with DevOps practices
-- 👯 **I’m looking to collaborate on:** Innovative full-stack. Open to exciting opportunities in tech!
-- 🤔 **I’m looking for help with:** Deployment strategies, scaling web apps, and optimizing CI/CD pipelines.
-- 💬 **Feel free to ask me about:** Full Stack Development (React, Node, MongoDB, Express etc.)
-- 📫 **How to reach me:** ssr911999@gmail.com
-- 😄 **Pronouns:** Sanjay
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+<h3 align="center">Full-Stack Developer | MERN · Next.js · TypeScript · AWS</h3>
+<p align="center"><i>I build the interface, the API and the deployment pipeline, and I make each one fast and secure.</i></p>
+
+<br>
+
+- 🔭 **Currently building:** Cloud Storage App v2, an improved version with AWS S3, CloudFront and Redis
+- 💼 **Experience:** Frontend Developer Intern at National Fertilizers Limited (React, TypeScript, Tailwind CSS)
+- 🌱 **Currently learning:** Advanced deployment and scaling with CI/CD and Nginx
+- 🎯 **Looking for:** Full-Stack, Frontend and MERN Stack roles in a fast-moving product team
+- 📫 **Reach me:** [ssr911999@gmail.com](mailto:ssr911999@gmail.com)
+
+<br>
+
+# 🛠️ Skills in Action
+
+| Area | Technologies | Where I used them |
+|------|--------------|-------------------|
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS | Shopee E-commerce, Cloud Storage, NFL internship |
+| **Backend** | Node.js, Express, REST APIs, OAuth, RBAC | Cloud Storage, Shopee E-commerce, CI/CD Server |
+| **Database & Caching** | MongoDB, Mongoose, Redis | Cloud Storage (Redis was 7x to 10x faster than MongoDB on reads) |
+| **Cloud** | AWS S3, CloudFront | Cloud Storage (latency cut from 300ms to 100ms) |
+| **Security** | Zod, DOMPurify, CSP, Helmet, Rate Limiting, HMAC-SHA256 | Shopee E-commerce, CI/CD Server |
+| **DevOps** | GitHub Webhooks, Bash, PM2, SSH | CI/CD Server (deploy time cut from 15 minutes to under 60 seconds) |
+| **Payments** | Razorpay | Cloud Storage |
+| **Advanced TypeScript** | Conditional, mapped, recursive and template literal types | [Type Challenges](https://github.com/ssrawat1/type-challenges) (all Easy, 101 Medium solved) |
 
 <br>
 
 # 💻 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+**Frontend**<br>
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Database**<br>
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+**Cloud & DevOps**<br>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br>
 
-# 🌐 Socials & Portfolio:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://sanjaydevportfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-singh-rawat-a39b11302) 
-[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssr911999@gmail.com)
+# 🚀 Featured Projects
+
+## ☁️ Cloud Storage Application
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+A cloud storage platform for secure file uploads and downloads, with premium storage plans.
+
+🚧 **Status:** The live demo is offline because my AWS free tier ended. I am building an improved version (v2), and the code is available below.
+
+- ⚡ Cut file delivery latency from **300ms to 100ms** (66% faster) using the CloudFront CDN
+- 🧠 Benchmarked Redis against MongoDB: Redis gave **7x to 10x faster reads**, which shaped the caching strategy
+- 🔐 Role-based access control, Redis-backed sessions and Google/GitHub OAuth
+- 💳 Razorpay billing for premium storage tiers
+
+[🔗 Frontend Code](https://github.com/ssrawat1/StorageApp-Frontend) · [🔗 Backend Code](https://github.com/ssrawat1/StorageApp-Backend)
+
+---
+
+## ⚙️ Custom CI/CD Server
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=61DAFB) ![GitHub Webhooks](https://img.shields.io/badge/GitHub_Webhooks-121011?style=flat-square&logo=github&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+
+A self-hosted deployment server that removes manual SSH deployments.
+
+- 🚀 Reduced deploy time from about **15 minutes to under 60 seconds** (93% faster)
+- 🔒 Verifies every webhook with **HMAC-SHA256** to block spoofed pushes
+- 🧭 Picks the right deploy script automatically for each repository, so one server handles many projects
+- 📧 Sends HTML email reports of success or failure to the developer who pushed the commit
+
+[🔗 Code](https://github.com/ssrawat1/Custom-CI-CD-Pipelines-Using-Node.js-GitHub-Webhook)
+
+---
+
+## 🛒 Shopee E-commerce Application
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+
+A full-stack shopping app with a focus on user experience and security.
+
+- 🛍️ Guest cart that merges automatically with the user's cart after login
+- 🔎 Product search with live suggestions and keyword highlighting
+- 🛡️ Secure APIs using rate limiting, Zod validation, DOMPurify, CSP and Helmet
+- 📄 Client-side pagination and reusable UI components
+
+[🌐 Live Demo](https://shopee.safemystuff.store/) · [🔗 Frontend Code](https://github.com/ssrawat1/shopping_app_frontend) · [🔗 Backend Code](https://github.com/ssrawat1/shopping_app_backend)
 
 <br>
 
@@ -36,17 +97,20 @@ I went deep into TypeScript's type system by solving **all 101 Medium** and **10
 
 <br>
 
-## 🧩 LeetCode Stats:
+## 🧩 LeetCode Stats
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ssrawata1?theme=dark)](https://leetcode.com/ssrawata1/)
 
 ## 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=ssrawat1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<br>
+
+# 🌐 Socials & Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://sanjaydevportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-singh-rawat-a39b11302)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssr911999@gmail.com)
+
 [![](https://visitcount.itsvg.in/api?id=ssrawat1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
